@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Xan的小舍</title>
+  <icon>https://xans.top/icon.png</icon>
+  
+  <link href="https://xans.top/atom.xml" rel="self"/>
+  
+  <link href="https://xans.top/"/>
+  <updated>2024-09-05T10:38:55.000Z</updated>
+  <id>https://xans.top/</id>
+  
+  <author>
+    <name>Xan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用Termux加GitHub Action自动化部署Hexo</title>
+    <link href="https://xans.top/posts/b1d0ba4/"/>
+    <id>https://xans.top/posts/b1d0ba4/</id>
+    <published>2024-09-05T10:38:55.000Z</published>
+    <updated>2024-09-05T10:38:55.000Z</updated>
+    
+    
+    <summary type="html">在手机上实现自动化部署Hexo</summary>
+    
+    
+    
+    
+    <category term="Blog" scheme="https://xans.top/tags/Blog/"/>
+    
+    <category term="Hexo" scheme="https://xans.top/tags/Hexo/"/>
+    
+    <category term="建站" scheme="https://xans.top/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+  </entry>
+  
+</feed>
